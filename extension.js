@@ -1,6 +1,6 @@
 (function () {
     //Nome de usuário de onde foi feito a cópia, assim você não precisa mudar tanta coisa.
-    var fork = "Yemasthui";
+    var fork = "CherryBloomBOT";
 		
     //Definir função pela extensão do bot.
     function extend() {
@@ -58,7 +58,7 @@
     //Mudar as configurações padrões do bot e ter certeza que elas foram carregadas corretamente
 
     localStorage.setItem("basicBotsettings", JSON.stringify({
-        botName: "basicBot",
+        botName: "CherryBloomBot",
         language: "portuguese",
         chatLink: "https://rawgit.com/Yemasthui/basicBot/master/lang/pt.json",
         startupCap: 1, // 1-200
